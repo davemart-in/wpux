@@ -1,0 +1,1027 @@
+{
+  "links": {
+    "about": {
+      "breadcrumb": [
+        "myHome",
+        "about"
+      ],
+      "href": "#about",
+      "label": "紹介"
+    },
+    "additionalCss": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "additionalCss"
+      ],
+      "href": "#additionalCss",
+      "label": "追加のCSS"
+    },
+    "addOns": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "addOns"
+      ],
+      "href": "#addOns",
+      "label": "アドオン"
+    },
+    "back": {
+      "classes": "back"
+    },
+    "crowdsignal": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "crowdsignal"
+      ],
+      "href": "#crowdsignal",
+      "label": "Crowdsignal"
+    },
+    "comments": {
+      "breadcrumb": [
+        "myHome",
+        "comments"
+      ],
+      "href": "#comments",
+      "label": "コメント"
+    },
+    "customize": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "customize"
+      ],
+      "href": "#customize",
+      "label": "カスタマイズ"
+    },
+    "design": {
+      "admin": true,
+      "classes": "sub-menu",
+      "id": "design",
+      "label": "デザイン"
+    },
+    "discussionSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "discussionSettings"
+      ],
+      "href": "#discussionSettings",
+      "label": "ディスカッション設定"
+    },
+    "documentation": {
+      "classes": "external",
+      "href": "https://wordpress.org/documentation/",
+      "label": "ドキュメンテーション"
+    },
+    "domains": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "domains"
+      ],
+      "href": "#domains",
+      "label": "ドメイン"
+    },
+    "dotorg": {
+      "classes": "external",
+      "href": "https://wordpress.org",
+      "label": "WordPress.org"
+    },
+    "downloadLogo": {
+      "classes": "external",
+      "href": "https://wordpress.org/about/logos/",
+      "label": "ロゴをダウンロード"
+    },
+    "editor": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "editor"
+      ],
+      "href": "#editor",
+      "label": "エディター"
+    },
+    "emails": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "emails"
+      ],
+      "href": "#emails",
+      "label": "メール"
+    },
+    "export": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "export"
+      ],
+      "href": "#export",
+      "label": "エクスポート"
+    },
+    "feedback": {
+      "admin": true,
+      "classes": "external",
+      "href": "https://wordpress.org/support/forum/requests-and-feedback/",
+      "label": "フィードバック"
+    },
+    "formResponses": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "formResponses"
+      ],
+      "href": "#formResponses",
+      "label": "フォームの回答"
+    },
+    "generalSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "generalSettings"
+      ],
+      "href": "#generalSettings",
+      "label": "一般設定"
+    },
+    "header": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "header"
+      ],
+      "href": "#header",
+      "label": "ヘッダー"
+    },
+    "hostingConfiguration": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "hostingConfiguration"
+      ],
+      "href": "#hostingConfiguration",
+      "label": "ホスティング設定"
+    },
+    "inbox": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "inbox"
+      ],
+      "href": "#inbox",
+      "label": "受信トレイ"
+    },
+    "installedPlugins": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "installedPlugins"
+      ],
+      "href": "#installedPlugins",
+      "label": "インストール済みプラグイン"
+    },
+    "import": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "import"
+      ],
+      "href": "#import",
+      "label": "インポート"
+    },
+    "logo": {
+      "classes": "icon sub-menu",
+      "id": "logo",
+      "href": "#"
+    },
+    "logout": {
+      "classes": "logout",
+      "href": "#logout",
+      "label": "ログアウト"
+    },
+    "manage": {
+      "admin": true,
+      "classes": "sub-menu",
+      "id": "manage",
+      "label": "管理"
+    },
+    "media": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "media"
+      ],
+      "href": "#media",
+      "label": "メディア"
+    },
+    "mediaSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "mediaSettings"
+      ],
+      "href": "#mediaSettings",
+      "label": "メディア設定"
+    },
+    "menus": {
+      "admin": true,
+      "primaryAction": "Manage with Live Preview",
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "menus"
+      ],
+      "href": "#menus",
+      "label": "メニュー"
+    },
+    "myAccount": {
+      "classes": "icon global sub-menu",
+      "id": "myAccount"
+    },
+    "myHome": {
+      "breadcrumb": [
+        "myHome"
+      ],
+      "href": "#",
+      "label": "マイホーム"
+    },
+    "notifications": {
+      "breadcrumb": [
+        "notifications"
+      ],
+      "classes": "icon global",
+      "id": "notifications",
+      "href": "#notifications"
+    },
+    "pages": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "pages"
+      ],
+      "href": "#pages",
+      "label": "ページ"
+    },
+    "performanceSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "performanceSettings"
+      ],
+      "href": "#performanceSettings",
+      "label": "パフォーマンス設定"
+    },
+    "permalinksSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "permalinksSettings"
+      ],
+      "href": "#permalinksSettings",
+      "label": "パーマリンク設定"
+    },
+    "personalData": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "personalData"
+      ],
+      "href": "#personalData",
+      "label": "個人データ"
+    },
+    "plans": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "plans"
+      ],
+      "href": "#plans",
+      "label": "プラン"
+    },
+    "pluginEditor": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "pluginEditor"
+      ],
+      "href": "#pluginEditor",
+      "label": "プラグインエディター"
+    },
+    "plugins": {
+      "admin": true,
+      "classes": "sub-menu",
+      "id": "plugins",
+      "label": "プラグイン"
+    },
+    "portfolio": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "portfolio"
+      ],
+      "href": "#portfolio",
+      "label": "ポートフォリオ"
+    },
+    "posts": {
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "posts"
+      ],
+      "href": "#posts",
+      "label": "投稿"
+    },
+    "privacySettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "privacySettings"
+      ],
+      "href": "#privacySettings",
+      "label": "プライバシー設定"
+    },
+    "profile": {
+      "breadcrumb": [
+        "myHome",
+        "myAccount",
+        "profile"
+      ],
+      "href": "#profile",
+      "label": "プロフィール"
+    },
+    "projectTags": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "projectTags"
+      ],
+      "href": "#projectTags",
+      "label": "プロジェクトのタグ"
+    },
+    "projectTypes": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "projectTypes"
+      ],
+      "href": "#projectTypes",
+      "label": "プロジェクトの種類"
+    },
+    "publish": {
+      "classes": "sub-menu",
+      "id": "publish",
+      "label": "公開"
+    },
+    "purchases": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "purchases"
+      ],
+      "href": "#purchases",
+      "label": "購入"
+    },
+    "ratings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "ratings"
+      ],
+      "href": "#ratings",
+      "label": "評価"
+    },
+    "reader": {
+      "breadcrumb": [
+        "reader"
+      ],
+      "classes": "icon global",
+      "id": "reader",
+      "href": "#reader"
+    },
+    "readingSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "readingSettings"
+      ],
+      "href": "#readingSettings",
+      "label": "表示設定"
+    },
+    "search": {
+      "classes": "icon global sub-menu",
+      "id": "search"
+    },
+    "siteHealth": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "siteHealth"
+      ],
+      "href": "#siteHealth",
+      "label": "サイトの状態"
+    },
+    "stats": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "stats"
+      ],
+      "href": "#stats",
+      "label": "統計"
+    },
+    "support": {
+      "classes": "external",
+      "href": "https://wordpress.org/support/forums/",
+      "label": "サポート"
+    },
+    "testimonials": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "publish",
+        "testimonials"
+      ],
+      "href": "#testimonials",
+      "label": "テスト"
+    },
+    "themeEditor": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "themeEditor"
+      ],
+      "href": "#themeEditor",
+      "label": "テーマエディター"
+    },
+    "themes": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "themes"
+      ],
+      "href": "#themes",
+      "label": "テーマ"
+    },
+    "updates": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "updates"
+      ],
+      "href": "#updates",
+      "label": "アップデート"
+    },
+    "users": {
+      "admin": true,
+      "primaryAction": "Add New",
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "users"
+      ],
+      "href": "#users",
+      "label": "ユーザー"
+    },
+    "admin": true,
+    "widgets": {
+      "breadcrumb": [
+        "myHome",
+        "design",
+        "widgets"
+      ],
+      "href": "#widgets",
+      "label": "ウィジェット"
+    },
+    "woo": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo"
+      ],
+      "classes": "plugin",
+      "data-plugin": "woo",
+      "href": "#woo",
+      "label": "WooCommerce"
+    },
+    "wooAbout": {
+      "classes": "external",
+      "href": "https://woocommerce.com/about/",
+      "label": "WooCommerceについて"
+    },
+    "wooAnalytics": {
+      "classes": "sub-menu plugins",
+      "id": "wooAnalytics",
+      "label": "アナリティクス"
+    },
+    "wooAnalyticsCategories": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsCategories"
+      ],
+      "href": "#wooAnalyticsCategories",
+      "label": "カテゴリー"
+    },
+    "wooAnalyticsCoupons": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsCoupons"
+      ],
+      "href": "#wooAnalyticsCoupons",
+      "label": "クーポン"
+    },
+    "wooAnalyticsDownloads": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsDownloads"
+      ],
+      "href": "#wooAnalyticsDownloads",
+      "label": "ダウンロード"
+    },
+    "wooAnalyticsOrders": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsOrders"
+      ],
+      "href": "#wooAnalyticsOrders",
+      "label": "注文"
+    },
+    "wooAnalyticsOverview": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsOverview"
+      ],
+      "href": "#wooAnalyticsOverview",
+      "label": "概要"
+    },
+    "wooAnalyticsProducts": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsProducts"
+      ],
+      "href": "#wooAnalyticsProducts",
+      "label": "商品"
+    },
+    "wooAnalyticsRevenue": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsRevenue"
+      ],
+      "href": "#wooAnalyticsRevenue",
+      "label": "収益"
+    },
+    "wooAnalyticsSettings": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsSettings"
+      ],
+      "href": "#wooAnalyticsSettings",
+      "label": "設定"
+    },
+    "wooAnalyticsStock": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsStock"
+      ],
+      "href": "#wooAnalyticsStock",
+      "label": "在庫"
+    },
+    "wooAnalyticsTaxes": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsTaxes"
+      ],
+      "href": "#wooAnalyticsTaxes",
+      "label": "税金"
+    },
+    "wooAnalyticsVariations": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooAnalytics",
+        "wooAnalyticsVariations"
+      ],
+      "href": "#wooAnalyticsVariations",
+      "label": "バリエーション"
+    },
+    "wooAttributes": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooProducts",
+        "wooAttributes"
+      ],
+      "href": "#wooAttributes",
+      "label": "属性"
+    },
+    "wooCategories": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooProducts",
+        "wooCategories"
+      ],
+      "href": "#wooCategories",
+      "label": "カテゴリー"
+    },
+    "wooCustomers": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooCustomers"
+      ],
+      "href": "#wooCustomers",
+      "label": "顧客"
+    },
+    "wooExtensions": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooExtensions"
+      ],
+      "href": "#wooExtensions",
+      "label": "拡張機能"
+    },
+    "wooHome": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooHome"
+      ],
+      "href": "#wooHome",
+      "label": "ホーム"
+    },
+    "wooLink": {
+      "classes": "external",
+      "href": "https://woocommerce.com/",
+      "id": "wooLink",
+      "label": "WooCommerce.com"
+    },
+    "wooLogo": {
+      "classes": "icon sub-menu plugins",
+      "id": "wooLogo",
+      "href": "#woo"
+    },
+    "wooManage": {
+      "classes": "sub-menu plugins",
+      "id": "wooManage",
+      "label": "管理"
+    },
+    "wooMarketing": {
+      "classes": "sub-menu plugins",
+      "id": "wooMarketing",
+      "label": "マーケティング"
+    },
+    "wooMarketingCoupons": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooMarketing",
+        "wooMarketingCoupons"
+      ],
+      "href": "#wooMarketingCoupons",
+      "label": "クーポン"
+    },
+    "wooMarketingOverview": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooMarketing",
+        "wooMarketingOverview"
+      ],
+      "href": "#wooMarketingOverview",
+      "label": "概要"
+    },
+    "wooOrders": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooOrders"
+      ],
+      "href": "#wooOrders",
+      "label": "注文"
+    },
+    "wooProducts": {
+      "classes": "sub-menu plugins",
+      "id": "wooProducts",
+      "label": "商品"
+    },
+    "wooProductsAll": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooProducts",
+        "wooProductsAll"
+      ],
+      "href": "#wooProductsAll",
+      "label": "すべての商品"
+    },
+    "wooReports": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooReports"
+      ],
+      "href": "#wooReports",
+      "label": "レポート"
+    },
+    "wooReviews": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooProducts",
+        "wooReviews"
+      ],
+      "href": "#wooReviews",
+      "label": "レビュー"
+    },
+    "wooSettings": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooSettings"
+      ],
+      "href": "#wooSettings",
+      "label": "設定"
+    },
+    "wooStatus": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooStatus"
+      ],
+      "href": "#wooStatus",
+      "label": "ステータス"
+    },
+    "wooTags": {
+      "breadcrumb": [
+        "myHome",
+        "plugins",
+        "woo",
+        "wooProducts",
+        "wooTags"
+      ],
+      "href": "#wooTags",
+      "label": "タグ"
+    },
+    "writingSettings": {
+      "admin": true,
+      "breadcrumb": [
+        "myHome",
+        "manage",
+        "writingSettings"
+      ],
+      "href": "#writingSettings",
+      "label": "書き込み設定"
+    }
+  },
+  "structure": {
+    "global": {
+      "links": [
+        "reader",
+        "search",
+        "myAccount",
+        "notifications"
+      ],
+      "myAccount": {
+        "primary": [
+          "profile",
+          "logout"
+        ]
+      }
+    },
+    "plugins": {
+      "woo": {
+        "links": [
+          "wooLogo",
+          "wooManage",
+          "wooProducts",
+          "wooAnalytics",
+          "wooMarketing"
+        ],
+        "wooLogo": {
+          "primary": [
+            "wooHome",
+            "wooStatus"
+          ],
+          "secondary": [
+            "wooAbout",
+            "wooLink"
+          ]
+        },
+        "wooManage": {
+          "primary": [
+            "wooOrders",
+            "wooCustomers",
+            "wooReports"
+          ],
+          "secondary": [
+            "wooSettings",
+            "wooExtensions"
+          ]
+        },
+        "wooProducts": {
+          "primary": [
+            "wooProductsAll",
+            "wooCategories",
+            "wooTags"
+          ],
+          "secondary": [
+            "wooAttributes",
+            "wooReviews"
+          ]
+        },
+        "wooAnalytics": {
+          "primary": [
+            "wooAnalyticsOverview",
+            "wooAnalyticsProducts",
+            "wooAnalyticsRevenue",
+            "wooAnalyticsOrders"
+          ],
+          "secondary": [
+            "wooAnalyticsVariations",
+            "wooAnalyticsCategories",
+            "wooAnalyticsCoupons",
+            "wooAnalyticsTaxes"
+          ],
+          "tertiary": [
+            "wooAnalyticsDownloads",
+            "wooAnalyticsStock",
+            "wooAnalyticsSettings"
+          ]
+        },
+        "wooMarketing": {
+          "primary": [
+            "wooMarketingOverview",
+            "wooMarketingCoupons"
+          ]
+        }
+      }
+    },
+    "site": {
+      "links": [
+        "logo",
+        "publish",
+        "design",
+        "plugins",
+        "manage"
+      ],
+      "logo": {
+        "primary": [
+          "myHome",
+          "stats"
+        ],
+        "secondary": [
+          "plans",
+          "purchases",
+          "domains",
+          "addOns"
+        ],
+        "tertiary": [
+          "emails",
+          "inbox"
+        ]
+      },
+      "publish": {
+        "primary": [
+          "posts",
+          "media",
+          "pages",
+          "comments"
+        ],
+        "secondary": [
+          "portfolio",
+          "projectTags",
+          "projectTypes",
+          "testimonials"
+        ],
+        "tertiary": [
+          "formResponses",
+          "crowdsignal",
+          "ratings"
+        ]
+      },
+      "design": {
+        "primary": [
+          "themes",
+          "editor"
+        ],
+        "secondary": [
+          "customize",
+          "additionalCss"
+        ]
+      },
+      "plugins": {
+        "primary": [
+          "installedPlugins",
+          "woo"
+        ],
+        "secondary": [
+          "pluginEditor"
+        ]
+      },
+      "manage": {
+        "primary": [
+          "users",
+          "generalSettings",
+          "writingSettings",
+          "readingSettings"
+        ],
+        "secondary": [
+          "performanceSettings",
+          "discussionSettings",
+          "mediaSettings",
+          "permalinksSettings",
+          "privacySettings"
+        ],
+        "tertiary": [
+          "hostingConfiguration",
+          "import",
+          "export",
+          "siteHealth",
+          "personalData"
+        ]
+      }
+    }
+  }
+}

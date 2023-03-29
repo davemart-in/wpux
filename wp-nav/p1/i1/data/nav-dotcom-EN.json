@@ -1,0 +1,703 @@
+{
+	"links": {
+		"about": {
+			"breadcrumb": [ "myHome", "about" ],
+			"href": "#about",
+			"label": "About"
+		},
+		"additionalCss": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "design", "additionalCss" ],
+			"href": "#additionalCss",
+			"label": "Additional CSS"
+		},
+		"addOns": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "addOns" ],
+			"href": "#addOns",
+			"label": "Add-ons"
+		},
+		"back": {
+			"classes": "back"
+		},
+		"crowdsignal": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "crowdsignal" ],
+			"href": "#crowdsignal",
+			"label": "Crowdsignal"
+		},
+		"comments": {
+			"breadcrumb": [ "myHome", "comments" ],
+			"href": "#comments",
+			"label": "Comments"
+		},
+		"customize": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "design", "customize" ],
+			"href": "#customize",
+			"label": "Customize"
+		},
+		"design": {
+			"admin": true,
+			"classes": "sub-menu",
+			"id": "design",
+			"label": "Design"
+		},
+		"discussionSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "discussionSettings" ],
+			"href": "#discussionSettings",
+			"label": "Discussion Settings"
+		},
+		"documentation": {
+			"classes": "external",
+			"href": "https://wordpress.org/documentation/",
+			"label": "Documentation"
+		},
+		"domains": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "domains" ],
+			"href": "#domains",
+			"label": "Domains"
+		},
+		"dotorg": {
+			"classes": "external",
+			"href": "https://wordpress.org",
+			"label": "WordPress.org"
+		},
+		"downloadLogo": {
+			"classes": "external",
+			"href": "https://wordpress.org/about/logos/",
+			"label": "Download Logo"
+		},
+		"editor": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "editor" ],
+			"href": "#editor",
+			"label": "Editor"
+		},
+		"emails": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "emails" ],
+			"href": "#emails",
+			"label": "Emails"
+		},
+		"export": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "export" ],
+			"href": "#export",
+			"label": "Export"
+		},
+		"feedback": {
+			"admin": true,
+			"classes": "external",
+			"href": "https://wordpress.org/support/forum/requests-and-feedback/",
+			"label": "Feedback"
+		},
+		"formResponses": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "formResponses" ],
+			"href": "#formResponses",
+			"label": "Form Responses"
+		},
+		"generalSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "generalSettings" ],
+			"href": "#generalSettings",
+			"label": "General Settings"
+		},
+		"header": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "design", "header" ],
+			"href": "#header",
+			"label": "Header"
+		},
+		"hostingConfiguration": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "hostingConfiguration" ],
+			"href": "#hostingConfiguration",
+			"label": "Hosting Configuration"
+		},
+		"inbox": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "inbox" ],
+			"href": "#inbox",
+			"label": "Inbox"
+		},
+		"installedPlugins": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "plugins", "installedPlugins" ],
+			"href": "#installedPlugins",
+			"label": "Installed Plugins"
+		},
+		"import": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "import" ],
+			"href": "#import",
+			"label": "Import"
+		},
+		"logo": {
+			"classes": "icon sub-menu",
+			"id": "logo",
+			"href": "#"
+		},
+		"logout": {
+			"classes": "logout",
+			"href": "#logout",
+			"label": "Logout"
+		},
+		"manage": {
+			"admin": true,
+			"classes": "sub-menu",
+			"id": "manage",
+			"label": "Manage"
+		},
+		"media": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "publish", "media" ],
+			"href": "#media",
+			"label": "Media"
+		},
+		"mediaSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "mediaSettings" ],
+			"href": "#mediaSettings",
+			"label": "Media Settings"
+		},
+		"menus": {
+			"admin": true,
+			"primaryAction": "Manage with Live Preview",
+			"breadcrumb": [ "myHome", "design", "menus" ],
+			"href": "#menus",
+			"label": "Menus"
+		},
+		"myAccount": {
+			"classes": "icon global sub-menu",
+			"id": "myAccount"
+		},
+		"myHome": {
+			"breadcrumb": [ "myHome" ],
+			"href": "#",
+			"label": "My Home"
+		},
+		"notifications": {
+			"breadcrumb": [ "notifications" ],
+			"classes": "icon global",
+			"id": "notifications",
+			"href": "#notifications"
+		},
+		"pages": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "publish", "pages" ],
+			"href": "#pages",
+			"label": "Pages"
+		},
+		"performanceSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "performanceSettings" ],
+			"href": "#performanceSettings",
+			"label": "Performance Settings"
+		},
+		"permalinksSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "permalinksSettings" ],
+			"href": "#permalinksSettings",
+			"label": "Permalinks Settings"
+		},
+		"personalData": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "personalData" ],
+			"href": "#personalData",
+			"label": "Personal Data"
+		},
+		"plans": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "plans" ],
+			"href": "#plans",
+			"label": "Plans"
+		},
+		"pluginEditor": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "plugins", "pluginEditor" ],
+			"href": "#pluginEditor",
+			"label": "Plugin Editor"
+		},
+		"plugins": {
+			"admin": true,
+			"classes": "sub-menu",
+			"id": "plugins",
+			"label": "Plugins"
+		},
+		"portfolio": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "publish", "portfolio" ],
+			"href": "#portfolio",
+			"label": "Portfolio"
+		},
+		"posts": {
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "publish", "posts" ],
+			"href": "#posts",
+			"label": "Posts"
+		},
+		"privacySettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "privacySettings" ],
+			"href": "#privacySettings",
+			"label": "Privacy Settings"
+		},
+		"profile": {
+			"breadcrumb": [ "myHome", "myAccount", "profile" ],
+			"href": "#profile",
+			"label": "Profile"
+		},
+		"projectTags": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "projectTags" ],
+			"href": "#projectTags",
+			"label": "Project Tags"
+		},
+		"projectTypes": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "projectTypes" ],
+			"href": "#projectTypes",
+			"label": "Project Types"
+		},
+		"publish": {
+			"classes": "sub-menu",
+			"id": "publish",
+			"label": "Publish"
+		},
+		"purchases": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "purchases" ],
+			"href": "#purchases",
+			"label": "Purchases"
+		},
+		"ratings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "publish", "ratings" ],
+			"href": "#ratings",
+			"label": "Ratings"
+		},
+		"reader": {
+			"breadcrumb": [ "reader" ],
+			"classes": "icon global",
+			"id": "reader",
+			"href": "#reader"
+		},
+		"readingSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "readingSettings" ],
+			"href": "#readingSettings",
+			"label": "Reading Settings"
+		},
+		"search": {
+			"classes": "icon global sub-menu",
+			"id": "search"
+		},
+		"siteHealth": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "siteHealth" ],
+			"href": "#siteHealth",
+			"label": "Site Health"
+		},
+		"stats": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "stats" ],
+			"href": "#stats",
+			"label": "Stats"
+		},
+		"support": {
+			"classes": "external",
+			"href": "https://wordpress.org/support/forums/",
+			"label": "Support"
+		},
+		"testimonials": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "publish", "testimonials" ],
+			"href": "#testimonials",
+			"label": "Testimonials"
+		},
+		"themeEditor": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "design", "themeEditor" ],
+			"href": "#themeEditor",
+			"label": "Theme Editor"
+		},
+		"themes": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "design", "themes" ],
+			"href": "#themes",
+			"label": "Themes"
+		},
+		"updates": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "updates" ],
+			"href": "#updates",
+			"label": "Updates"
+		},
+		"users": {
+			"admin": true,
+			"primaryAction": "Add New",
+			"breadcrumb": [ "myHome", "manage", "users" ],
+			"href": "#users",
+			"label": "Users"
+		},
+		"admin": true,
+		"widgets": {
+			"breadcrumb": [ "myHome", "design", "widgets" ],
+			"href": "#widgets",
+			"label": "Widgets"
+		},
+		"woo": {
+			"breadcrumb": [ "myHome", "plugins", "woo" ],
+			"classes": "plugin",
+			"data-plugin": "woo",
+			"href": "#woo",
+			"label": "WooCommerce"
+		},
+		"wooAbout": {
+			"classes": "external",
+			"href": "https://woocommerce.com/about/",
+			"label": "About WooCommerce"
+		},
+		"wooAnalytics": {
+			"classes": "sub-menu plugins",
+			"id": "wooAnalytics",
+			"label": "Analytics"
+		},
+		"wooAnalyticsCategories": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsCategories" ],
+			"href": "#wooAnalyticsCategories",
+			"label": "Analytics"
+		},
+		"wooAnalyticsCoupons": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsCoupons" ],
+			"href": "#wooAnalyticsCoupons",
+			"label": "Coupons"
+		},
+		"wooAnalyticsDownloads": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsDownloads" ],
+			"href": "#wooAnalyticsDownloads",
+			"label": "Downloads"
+		},
+		"wooAnalyticsOrders": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsOrders" ],
+			"href": "#wooAnalyticsOrders",
+			"label": "Orders"
+		},
+		"wooAnalyticsOverview": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsOverview" ],
+			"href": "#wooAnalyticsOverview",
+			"label": "Overview"
+		},
+		"wooAnalyticsProducts": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsProducts" ],
+			"href": "#wooAnalyticsProducts",
+			"label": "Products"
+		},
+		"wooAnalyticsRevenue": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsRevenue" ],
+			"href": "#wooAnalyticsRevenue",
+			"label": "Revenue"
+		},
+		"wooAnalyticsSettings": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsSettings" ],
+			"href": "#wooAnalyticsSettings",
+			"label": "Settings"
+		},
+		"wooAnalyticsStock": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsStock" ],
+			"href": "#wooAnalyticsStock",
+			"label": "Stock"
+		},
+		"wooAnalyticsTaxes": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsTaxes" ],
+			"href": "#wooAnalyticsTaxes",
+			"label": "Taxes"
+		},
+		"wooAnalyticsVariations": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooAnalytics", "wooAnalyticsVariations" ],
+			"href": "#wooAnalyticsVariations",
+			"label": "Variations"
+		},
+		"wooAttributes": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooProducts", "wooAttributes" ],
+			"href": "#wooAttributes",
+			"label": "Attributes"
+		},
+		"wooCategories": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooProducts", "wooCategories" ],
+			"href": "#wooCategories",
+			"label": "Categories"
+		},
+		"wooCustomers": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooCustomers" ],
+			"href": "#wooCustomers",
+			"label": "Customers"
+		},
+		"wooExtensions": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooExtensions" ],
+			"href": "#wooExtensions",
+			"label": "Extensions"
+		},
+		"wooHome": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooHome" ],
+			"href": "#wooHome",
+			"label": "Home"
+		},
+		"wooLink": {
+			"classes": "external",
+			"href": "https://woocommerce.com/",
+			"id": "wooLink",
+			"label": "WooCommerce.com"
+		},
+		"wooLogo": {
+			"classes": "icon sub-menu plugins",
+			"id": "wooLogo",
+			"href": "#woo"
+		},
+		"wooManage": {
+			"classes": "sub-menu plugins",
+			"id": "wooManage",
+			"label": "Manage"
+		},
+		"wooMarketing": {
+			"classes": "sub-menu plugins",
+			"id": "wooMarketing",
+			"label": "Marketing"
+		},
+		"wooMarketingCoupons": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooMarketing", "wooMarketingCoupons" ],
+			"href": "#wooMarketingCoupons",
+			"label": "Coupons"
+		},
+		"wooMarketingOverview": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooMarketing", "wooMarketingOverview" ],
+			"href": "#wooMarketingOverview",
+			"label": "Overview"
+		},
+		"wooOrders": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooOrders" ],
+			"href": "#wooOrders",
+			"label": "Orders"
+		},
+		"wooProducts": {
+			"classes": "sub-menu plugins",
+			"id": "wooProducts",
+			"label": "Products"
+		},
+		"wooProductsAll": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooProducts", "wooProductsAll" ],
+			"href": "#wooProductsAll",
+			"label": "All Products"
+		},
+		"wooReports": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooReports" ],
+			"href": "#wooReports",
+			"label": "Reports"
+		},
+		"wooReviews": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooProducts", "wooReviews" ],
+			"href": "#wooReviews",
+			"label": "Reviews"
+		},
+		"wooSettings": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooSettings" ],
+			"href": "#wooSettings",
+			"label": "Settings"
+		},
+		"wooStatus": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooStatus" ],
+			"href": "#wooStatus",
+			"label": "Status"
+		},
+		"wooTags": {
+			"breadcrumb": [ "myHome", "plugins", "woo", "wooProducts", "wooTags" ],
+			"href": "#wooTags",
+			"label": "Tags"
+		},
+		"writingSettings": {
+			"admin": true,
+			"breadcrumb": [ "myHome", "manage", "writingSettings" ],
+			"href": "#writingSettings",
+			"label": "Writing Settings"
+		}
+	},
+	"structure": {
+		"global": {
+			"links": [
+				"reader",
+				"search",
+				"myAccount",
+				"notifications"
+			],
+			"myAccount": {
+				"primary": [
+					"profile",
+					"logout"
+				]
+			}
+		},
+		"plugins": {
+			"woo": {
+				"links": [
+					"wooLogo",
+					"wooManage",
+					"wooProducts",
+					"wooAnalytics",
+					"wooMarketing"
+				],
+				"wooLogo": {
+					"primary": [
+						"wooHome",
+						"wooStatus"
+					],
+					"secondary": [
+						"wooAbout",
+						"wooLink"
+					]
+				},
+				"wooManage": {
+					"primary": [
+						"wooOrders",
+						"wooCustomers",
+						"wooReports"
+					],
+					"secondary": [
+						"wooSettings",
+						"wooExtensions"
+					]
+				},
+				"wooProducts": {
+					"primary": [
+						"wooProductsAll",
+						"wooCategories",
+						"wooTags"
+					],
+					"secondary": [
+						"wooAttributes",
+						"wooReviews"
+					]
+				},
+				"wooAnalytics": {
+					"primary": [
+						"wooAnalyticsOverview",
+						"wooAnalyticsProducts",
+						"wooAnalyticsRevenue",
+						"wooAnalyticsOrders"
+					],
+					"secondary": [
+						"wooAnalyticsVariations",
+						"wooAnalyticsCategories",
+						"wooAnalyticsCoupons",
+						"wooAnalyticsTaxes"
+					],
+					"tertiary": [
+						"wooAnalyticsDownloads",
+						"wooAnalyticsStock",
+						"wooAnalyticsSettings"
+					]
+				},
+				"wooMarketing": {
+					"primary": [
+						"wooMarketingOverview",
+						"wooMarketingCoupons"
+					]
+				}
+			}
+		},
+		"site": {
+			"links": [
+				"logo",
+				"publish",
+				"design",
+				"plugins",
+				"manage"
+			],
+			"logo": {
+				"primary": [
+					"myHome",
+					"stats"
+				],
+				"secondary": [
+					"plans",
+					"purchases",
+					"domains",
+					"addOns"
+				],
+				"tertiary": [
+					"emails",
+					"inbox"
+				]
+			},
+			"publish": {
+				"primary": [
+					"posts",
+					"media",
+					"pages",
+					"comments"
+				],
+				"secondary": [
+					"portfolio",
+					"projectTags",
+					"projectTypes",
+					"testimonials"
+				],
+				"tertiary": [
+					"formResponses",
+					"crowdsignal",
+					"ratings"
+				]
+			},
+			"design": {
+				"primary": [
+					"themes",
+					"editor"
+				],
+				"secondary": [
+					"customize",
+					"additionalCss"
+				]
+			},
+			"plugins": {
+				"primary": [
+					"installedPlugins",
+					"woo"
+				],
+				"secondary": [
+					"pluginEditor"
+				]
+			},
+			"manage": {
+				"primary": [
+					"users",
+					"generalSettings",
+					"writingSettings",
+					"readingSettings"
+				],
+				"secondary": [
+					"performanceSettings",
+					"discussionSettings",
+					"mediaSettings",
+					"permalinksSettings",
+					"privacySettings"
+				],
+				"tertiary": [
+					"hostingConfiguration",
+					"import",
+					"export",
+					"siteHealth",
+					"personalData"
+				]
+			}
+		}
+	}
+}
